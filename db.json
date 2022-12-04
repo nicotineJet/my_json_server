@@ -33,7 +33,7 @@
     {"id": "attendance01", "attendance_tgt_user": "user01", "attendance_tgtdate": "2022-10-01 00-00-00.000", "attendance_kind": "夏季休暇", "attendance_days": "0", "attendance_conf_user": "user02"},
     {"id": "attendance02", "attendance_tgt_user": "user02", "attendance_tgtdate": "2022-10-02 00-00-00.000", "attendance_kind": "終日休", "attendance_days": "1", "attendance_conf_user": "user03"},
     {"id": "attendance03", "attendance_tgt_user": "user03", "attendance_tgtdate": "2022-10-03 00-00-00.000", "attendance_kind": "午前休", "attendance_days": "0.5", "attendance_conf_user": "user04"},
-    {"id": "attendance04", "attendance_tgt_user": "user04", "attendance_tgtdate": "2022-10-43 00-00-00.000", "attendance_kind": "午後休", "attendance_days": "0.5", "attendance_conf_user": "user01"}
+    {"id": "attendance04", "attendance_tgt_user": "user04", "attendance_tgtdate": "2022-10-04 00-00-00.000", "attendance_kind": "午後休", "attendance_days": "0.5", "attendance_conf_user": "user01"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
